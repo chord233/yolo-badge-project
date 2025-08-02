@@ -1,0 +1,7 @@
+# YOLO Badge Project Dependencies
+# 这个项目使用Python标准库，无需额外依赖
+
+# 如果需要扩展功能，可以添加以下依赖：
+# requests>=2.28.0
+# colorama>=0.4.4
+# click>=8.0.0
