@@ -25,6 +25,25 @@ YOLO徽章的获取条件：合并自己的pull request且没有经过代码审�
 - Twitter: [@chord244](https://twitter.com/chord244)
 - LinkedIn: [chord233](https://linkedin.com/in/chord233)
 
+## 快速开始
+
+```bash
+# 克隆项目
+git clone <your-repo-url>
+cd yolo-badge-project
+
+# 运行程序
+python main.py
+```
+
+## 贡献指南
+
+1. Fork 本项目
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 开启 Pull Request
+
 ## 许可证
 
-MIT License
+MIT License - 详见 LICENSE 文件
