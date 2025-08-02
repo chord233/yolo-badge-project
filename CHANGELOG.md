@@ -1,0 +1,1 @@
+# Changelog\n\nAll notable changes to this project will be documented in this file.\n\n## [1.0.0] - 2024-08-03\n\n### Added\n- Initial project setup\n- README with project description\n- MIT License\n- Contributing guide\n- Python main script\n
